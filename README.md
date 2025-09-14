@@ -110,3 +110,7 @@ Green Champions and ULBs access analytics, facility dashboards, and audit logs.
 🟡Empowered waste workers with training and safety systems.
 🟡Scalable model adaptable across ULBs and rural GPs.
 <img width="1536" height="1024" alt="ChatGPT Image Sep 12, 2025, 10_54_12 AM" src="https://github.com/user-attachments/assets/54ca1a05-1609-44b3-85c8-430f12b27f83" />
+<img width="1343" height="625" alt="Screenshot 2025-09-14 013639" src="https://github.com/user-attachments/assets/bc852468-2cb1-4da7-afbd-4459ef680869" />
+<img width="1347" height="603" alt="Screenshot 2025-09-14 013658" src="https://github.com/user-attachments/assets/da6298fd-1324-4d8b-92bd-50bb95995eaa" />
+<img width="1347" height="626" alt="Screenshot 2025-09-14 013713" src="https://github.com/user-attachments/assets/7742c089-8081-4163-99b9-77c2c53264f4" />
+<img width="1344" height="248" alt="Screenshot 2025-09-14 013730" src="https://github.com/user-attachments/assets/62fc8d0a-de32-4304-9386-cb148d262850" />
